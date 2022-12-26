@@ -1,0 +1,1 @@
+exports.server_url = "http://10.10.11.214:8080/api/";
